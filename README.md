@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20BytesBayt!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bytesbayt/count.svg" />
+</p>
 
 <h1 align="center">Hi 👋, I'm BytesBayt</h1>
 <h3 align="center">A passionate frontend developer</h3>
