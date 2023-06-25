@@ -11,7 +11,9 @@
 Hey, here is a text looks like a code
 ```
 
-
+<p align="center">
+  <img src="terminal.gif"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm BytesBayt</h1>
 <h3 align="center">A passionate frontend developer</h3>
