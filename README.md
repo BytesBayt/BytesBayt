@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20BytesBayt!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm BytesBayt</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
